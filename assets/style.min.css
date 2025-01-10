@@ -242,7 +242,7 @@ input[type="submit"] {
 }
 .carousel-control-prev-icon,
 .carousel-control-next-icon {
-  background-color: #e5975f;
+  background-color: orange;
   border-radius: 25px;
   padding: 20px;
 }
