@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://camilaoliec.github.io/Nina-Carducci/sitemap.xml
