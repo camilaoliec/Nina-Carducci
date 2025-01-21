@@ -240,7 +240,6 @@ input[type="submit"] {
 .contact-info a:hover {
   color: #beb45a;
 }
-
 .container-contact {
   display: flex;
   justify-content: space-between;
